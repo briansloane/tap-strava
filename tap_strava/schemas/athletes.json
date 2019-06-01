@@ -1,0 +1,293 @@
+{
+  "type": [
+    "null",
+    "object"
+  ],
+  "properties": {
+    "firstname": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "lastname": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "profile_medium": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "profile": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "city": {
+      "type": [
+        "null"
+      ]
+    },
+    "state": {
+      "type": [
+        "null"
+      ]
+    },
+    "country": {
+      "type": [
+        "null"
+      ]
+    },
+    "sex": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "friend": {
+      "type": [
+        "null"
+      ]
+    },
+    "follower": {
+      "type": [
+        "null"
+      ]
+    },
+    "premium": {
+      "type": [
+        "null",
+        "boolean"
+      ]
+    },
+    "created_at": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "updated_at": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "approve_followers": {
+      "type": [
+        "null"
+      ]
+    },
+    "badge_type_id": {
+      "type": [
+        "null",
+        "integer"
+      ]
+    },
+    "follower_count": {
+      "type": [
+        "null"
+      ]
+    },
+    "friend_count": {
+      "type": [
+        "null"
+      ]
+    },
+    "mutual_friend_count": {
+      "type": [
+        "null"
+      ]
+    },
+    "athlete_type": {
+      "type": [
+        "null"
+      ]
+    },
+    "date_preference": {
+      "type": [
+        "null"
+      ]
+    },
+    "measurement_preference": {
+      "type": [
+        "null"
+      ]
+    },
+    "email": {
+      "type": [
+        "null"
+      ]
+    },
+    "clubs": {
+      "type": [
+        "null"
+      ]
+    },
+    "bikes": {
+      "type": [
+        "null"
+      ]
+    },
+    "shoes": {
+      "type": [
+        "null"
+      ]
+    },
+    "super_user": {
+      "type": [
+        "null"
+      ]
+    },
+    "email_language": {
+      "type": [
+        "null"
+      ]
+    },
+    "weight": {
+      "type": [
+        "null"
+      ]
+    },
+    "max_heartrate": {
+      "type": [
+        "null"
+      ]
+    },
+    "username": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "description": {
+      "type": [
+        "null"
+      ]
+    },
+    "instagram_username": {
+      "type": [
+        "null"
+      ]
+    },
+    "offer_in_app_payment": {
+      "type": [
+        "null"
+      ]
+    },
+    "global_privacy": {
+      "type": [
+        "null"
+      ]
+    },
+    "receive_newsletter": {
+      "type": [
+        "null"
+      ]
+    },
+    "email_kom_lost": {
+      "type": [
+        "null"
+      ]
+    },
+    "dateofbirth": {
+      "type": [
+        "null"
+      ]
+    },
+    "facebook_sharing_enabled": {
+      "type": [
+        "null"
+      ]
+    },
+    "ftp": {
+      "type": [
+        "null"
+      ]
+    },
+    "profile_original": {
+      "type": [
+        "null"
+      ]
+    },
+    "premium_expiration_date": {
+      "type": [
+        "null"
+      ]
+    },
+    "email_send_follower_notices": {
+      "type": [
+        "null"
+      ]
+    },
+    "plan": {
+      "type": [
+        "null"
+      ]
+    },
+    "agreed_to_terms": {
+      "type": [
+        "null"
+      ]
+    },
+    "follower_request_count": {
+      "type": [
+        "null"
+      ]
+    },
+    "email_facebook_twitter_friend_joins": {
+      "type": [
+        "null"
+      ]
+    },
+    "receive_kudos_emails": {
+      "type": [
+        "null"
+      ]
+    },
+    "receive_follower_feed_emails": {
+      "type": [
+        "null"
+      ]
+    },
+    "receive_comment_emails": {
+      "type": [
+        "null"
+      ]
+    },
+    "sample_race_distance": {
+      "type": [
+        "null"
+      ]
+    },
+    "sample_race_time": {
+      "type": [
+        "null"
+      ]
+    },
+    "membership": {
+      "type": [
+        "null"
+      ]
+    },
+    "admin": {
+      "type": [
+        "null"
+      ]
+    },
+    "owner": {
+      "type": [
+        "null"
+      ]
+    },
+    "subscription_permissions": {
+      "type": [
+        "null"
+      ]
+    }
+  }
+}
